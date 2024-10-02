@@ -1,0 +1,92 @@
+[
+    {
+        "store_name": "Alfamart",
+        "store_address": "Jl. Jendral Sudirman No. 45, Jakarta",
+        "store_contact": "021-12345678",
+        "date": "03-10-2024",
+        "time": "16:45",
+        "transaction_number": "TRX84712365",
+        "items": [
+            {"name": "Minyak Goreng", "quantity": 2, "price": "Rp 25,000"},
+            {"name": "Gula Pasir", "quantity": 1, "price": "Rp 20,000"},
+            {"name": "Kopi Sachet", "quantity": 5, "price": "Rp 3,000"}
+        ],
+        "subtotal": "Rp 76,000",
+        "discount": "Rp 6,000",
+        "total": "Rp 70,000",
+        "payment_method": "Cash",
+        "change": "Rp 30,000"
+    },
+    {
+        "store_name": "Alfamart",
+        "store_address": "Jl. Jendral Sudirman No. 45, Jakarta",
+        "store_contact": "021-12345678",
+        "date": "03-10-2024",
+        "time": "17:30",
+        "transaction_number": "TRX95027143",
+        "items": [
+            {"name": "Air Galon", "quantity": 1, "price": "Rp 18,000"},
+            {"name": "Snack Rasa Keju", "quantity": 3, "price": "Rp 7,000"},
+            {"name": "Coklat Batangan", "quantity": 2, "price": "Rp 12,000"}
+        ],
+        "subtotal": "Rp 63,000",
+        "discount": "Rp 5,000",
+        "total": "Rp 58,000",
+        "payment_method": "Debit",
+        "change": "Rp 0"
+    },
+    {
+        "store_name": "Alfamart",
+        "store_address": "Jl. Jendral Sudirman No. 45, Jakarta",
+        "store_contact": "021-12345678",
+        "date": "03-10-2024",
+        "time": "18:00",
+        "transaction_number": "TRX38109724",
+        "items": [
+            {"name": "Sabun Cuci Piring", "quantity": 2, "price": "Rp 12,000"},
+            {"name": "Pembersih Lantai", "quantity": 1, "price": "Rp 15,000"},
+            {"name": "Sikat Gigi", "quantity": 2, "price": "Rp 8,000"}
+        ],
+        "subtotal": "Rp 55,000",
+        "discount": "Rp 3,000",
+        "total": "Rp 52,000",
+        "payment_method": "Credit Card",
+        "change": "Rp 0"
+    },
+    {
+        "store_name": "Alfamart",
+        "store_address": "Jl. Jendral Sudirman No. 45, Jakarta",
+        "store_contact": "021-12345678",
+        "date": "03-10-2024",
+        "time": "18:45",
+        "transaction_number": "TRX68302517",
+        "items": [
+            {"name": "Es Krim", "quantity": 4, "price": "Rp 10,000"},
+            {"name": "Tisu Wajah", "quantity": 1, "price": "Rp 13,000"},
+            {"name": "Minuman Soda", "quantity": 2, "price": "Rp 9,000"}
+        ],
+        "subtotal": "Rp 71,000",
+        "discount": "Rp 6,000",
+        "total": "Rp 65,000",
+        "payment_method": "E-wallet",
+        "change": "Rp 0"
+    },
+    {
+        "store_name": "Alfamart",
+        "store_address": "Jl. Jendral Sudirman No. 45, Jakarta",
+        "store_contact": "021-12345678",
+        "date": "03-10-2024",
+        "time": "19:30",
+        "transaction_number": "TRX27584390",
+        "items": [
+            {"name": "Coklat Bubuk", "quantity": 1, "price": "Rp 25,000"},
+            {"name": "Mie Instan", "quantity": 5, "price": "Rp 3,000"},
+            {"name": "Susu Kental Manis", "quantity": 2, "price": "Rp 15,000"}
+        ],
+        "subtotal": "Rp 65,000",
+        "discount": "Rp 5,000",
+        "total": "Rp 60,000",
+        "payment_method": "Cash",
+        "change": "Rp 40,000"
+    }
+]
