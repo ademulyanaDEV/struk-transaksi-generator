@@ -1,0 +1,47 @@
+[
+    {
+        "code": "GAS20JAN24",
+        "description": "20% discount on fuel purchases during January.",
+        "validity": "01 Jan 2024 - 31 Jan 2024",
+        "terms": "Applicable for a minimum purchase of Rp150,000. Not valid with other promotions.",
+        "company_name": "PT. Energi Bersama",
+        "discount_value": "20% off",
+        "contact_info": "Tel: 0812-3456-7890, Email: support@energi.com"
+    },
+    {
+        "code": "FUEL10FEB24",
+        "description": "Get a Rp10,000 cashback for every fuel purchase in February.",
+        "validity": "01 Feb 2024 - 28 Feb 2024",
+        "terms": "One code per transaction. Cashback will be credited to your account within 7 days.",
+        "company_name": "Bensin Kita",
+        "discount_value": "Rp10,000 Cashback",
+        "contact_info": "Website: www.bensinkita.com"
+    },
+    {
+        "code": "GASBONUSMARCH24",
+        "description": "Bonus 5 liters for every 50 liters of fuel purchased.",
+        "validity": "01 Mar 2024 - 31 Mar 2024",
+        "terms": "Only valid for premium fuel purchases. Show code at the time of transaction.",
+        "company_name": "Sumber Bahan Bakar",
+        "discount_value": "5 liters bonus",
+        "contact_info": "Tel: 0813-9876-5432, Email: info@sumberbb.com"
+    },
+    {
+        "code": "DISCOUNT15APRIL24",
+        "description": "15% discount for loyal customers in April.",
+        "validity": "01 Apr 2024 - 30 Apr 2024",
+        "terms": "Code valid only for registered customers. Minimum purchase of Rp200,000.",
+        "company_name": "Cahaya Bahan Bakar",
+        "discount_value": "15% off",
+        "contact_info": "Tel: 0814-5678-9101, Website: www.cahayabb.com"
+    },
+    {
+        "code": "GAS5MAY24",
+        "description": "Rp5,000 discount for every purchase made using the app.",
+        "validity": "01 May 2024 - 31 May 2024",
+        "terms": "Code valid only for transactions made through the app. Minimum purchase of Rp100,000.",
+        "company_name": "Fuel Plus",
+        "discount_value": "Rp5,000 off",
+        "contact_info": "Email: support@fuelplus.com"
+    }
+]
